@@ -1,0 +1,7 @@
+C:\Users\Učenik\source\repos\SavicKarloSystemIO\SavicKarloSystemIO\bin\Debug\SavicKarloSystemIO.exe.config
+C:\Users\Učenik\source\repos\SavicKarloSystemIO\SavicKarloSystemIO\bin\Debug\SavicKarloSystemIO.exe
+C:\Users\Učenik\source\repos\SavicKarloSystemIO\SavicKarloSystemIO\bin\Debug\SavicKarloSystemIO.pdb
+C:\Users\Učenik\source\repos\SavicKarloSystemIO\SavicKarloSystemIO\obj\Debug\SavicKarloSystemIO.csprojResolveAssemblyReference.cache
+C:\Users\Učenik\source\repos\SavicKarloSystemIO\SavicKarloSystemIO\obj\Debug\SavicKarloSystemIO.csproj.CoreCompileInputs.cache
+C:\Users\Učenik\source\repos\SavicKarloSystemIO\SavicKarloSystemIO\obj\Debug\SavicKarloSystemIO.exe
+C:\Users\Učenik\source\repos\SavicKarloSystemIO\SavicKarloSystemIO\obj\Debug\SavicKarloSystemIO.pdb
