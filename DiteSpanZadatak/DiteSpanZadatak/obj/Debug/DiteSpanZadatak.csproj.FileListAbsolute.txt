@@ -1,0 +1,7 @@
+C:\Users\Učenik\source\repos\DiteSpanZadatak\DiteSpanZadatak\obj\Debug\DiteSpanZadatak.csprojResolveAssemblyReference.cache
+C:\Users\Učenik\source\repos\DiteSpanZadatak\DiteSpanZadatak\obj\Debug\DiteSpanZadatak.csproj.CoreCompileInputs.cache
+C:\Users\Učenik\source\repos\DiteSpanZadatak\DiteSpanZadatak\bin\Debug\DiteSpanZadatak.exe.config
+C:\Users\Učenik\source\repos\DiteSpanZadatak\DiteSpanZadatak\bin\Debug\DiteSpanZadatak.exe
+C:\Users\Učenik\source\repos\DiteSpanZadatak\DiteSpanZadatak\bin\Debug\DiteSpanZadatak.pdb
+C:\Users\Učenik\source\repos\DiteSpanZadatak\DiteSpanZadatak\obj\Debug\DiteSpanZadatak.exe
+C:\Users\Učenik\source\repos\DiteSpanZadatak\DiteSpanZadatak\obj\Debug\DiteSpanZadatak.pdb
