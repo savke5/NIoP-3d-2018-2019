@@ -1,0 +1,6 @@
+C:\Users\Marko\source\repos\SpremanjeTeksta\SpremanjeTeksta\bin\Debug\SpremanjeTeksta.exe.config
+C:\Users\Marko\source\repos\SpremanjeTeksta\SpremanjeTeksta\bin\Debug\SpremanjeTeksta.exe
+C:\Users\Marko\source\repos\SpremanjeTeksta\SpremanjeTeksta\bin\Debug\SpremanjeTeksta.pdb
+C:\Users\Marko\source\repos\SpremanjeTeksta\SpremanjeTeksta\obj\Debug\SpremanjeTeksta.csproj.CoreCompileInputs.cache
+C:\Users\Marko\source\repos\SpremanjeTeksta\SpremanjeTeksta\obj\Debug\SpremanjeTeksta.exe
+C:\Users\Marko\source\repos\SpremanjeTeksta\SpremanjeTeksta\obj\Debug\SpremanjeTeksta.pdb

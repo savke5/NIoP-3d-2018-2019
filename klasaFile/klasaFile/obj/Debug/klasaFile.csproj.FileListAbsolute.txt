@@ -1,0 +1,6 @@
+C:\Users\Marko\source\repos\klasaFile\klasaFile\bin\Debug\klasaFile.exe.config
+C:\Users\Marko\source\repos\klasaFile\klasaFile\bin\Debug\klasaFile.exe
+C:\Users\Marko\source\repos\klasaFile\klasaFile\bin\Debug\klasaFile.pdb
+C:\Users\Marko\source\repos\klasaFile\klasaFile\obj\Debug\klasaFile.csproj.CoreCompileInputs.cache
+C:\Users\Marko\source\repos\klasaFile\klasaFile\obj\Debug\klasaFile.exe
+C:\Users\Marko\source\repos\klasaFile\klasaFile\obj\Debug\klasaFile.pdb

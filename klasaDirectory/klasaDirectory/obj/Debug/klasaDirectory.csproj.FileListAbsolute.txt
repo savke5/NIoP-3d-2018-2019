@@ -1,0 +1,7 @@
+C:\Users\Marko\source\repos\klasaDirectory\klasaDirectory\obj\Debug\klasaDirectory.csprojAssemblyReference.cache
+C:\Users\Marko\source\repos\klasaDirectory\klasaDirectory\obj\Debug\klasaDirectory.csproj.CoreCompileInputs.cache
+C:\Users\Marko\source\repos\klasaDirectory\klasaDirectory\bin\Debug\klasaDirectory.exe.config
+C:\Users\Marko\source\repos\klasaDirectory\klasaDirectory\bin\Debug\klasaDirectory.exe
+C:\Users\Marko\source\repos\klasaDirectory\klasaDirectory\bin\Debug\klasaDirectory.pdb
+C:\Users\Marko\source\repos\klasaDirectory\klasaDirectory\obj\Debug\klasaDirectory.exe
+C:\Users\Marko\source\repos\klasaDirectory\klasaDirectory\obj\Debug\klasaDirectory.pdb
