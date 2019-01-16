@@ -11,7 +11,7 @@ namespace StringReadSavicKarlo
     {
         static void Main(string[] args)
         {
-            StreamReader sr = new StreamReader(@"D:\My Documents\NOOP\datoteka.txt");
+            StreamReader sr = new StreamReader(@"C:\Users\Učenik\source\repos\StringReadSavicKarlo\sir");
           
 
             while (!sr.EndOfStream)
