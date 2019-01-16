@@ -1,0 +1,7 @@
+C:\Users\Učenik\source\repos\SavicKarloUsing\SavicKarloUsing\obj\Debug\SavicKarloUsing.csprojResolveAssemblyReference.cache
+C:\Users\Učenik\source\repos\SavicKarloUsing\SavicKarloUsing\obj\Debug\SavicKarloUsing.csproj.CoreCompileInputs.cache
+C:\Users\Učenik\source\repos\SavicKarloUsing\SavicKarloUsing\bin\Debug\SavicKarloUsing.exe.config
+C:\Users\Učenik\source\repos\SavicKarloUsing\SavicKarloUsing\bin\Debug\SavicKarloUsing.exe
+C:\Users\Učenik\source\repos\SavicKarloUsing\SavicKarloUsing\bin\Debug\SavicKarloUsing.pdb
+C:\Users\Učenik\source\repos\SavicKarloUsing\SavicKarloUsing\obj\Debug\SavicKarloUsing.exe
+C:\Users\Učenik\source\repos\SavicKarloUsing\SavicKarloUsing\obj\Debug\SavicKarloUsing.pdb
