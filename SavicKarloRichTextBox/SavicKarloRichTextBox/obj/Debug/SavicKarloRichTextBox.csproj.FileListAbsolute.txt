@@ -1,0 +1,11 @@
+C:\Users\Marko\source\repos\SavicKarloRichTextBox\SavicKarloRichTextBox\bin\Debug\SavicKarloRichTextBox.exe.config
+C:\Users\Marko\source\repos\SavicKarloRichTextBox\SavicKarloRichTextBox\bin\Debug\SavicKarloRichTextBox.exe
+C:\Users\Marko\source\repos\SavicKarloRichTextBox\SavicKarloRichTextBox\bin\Debug\SavicKarloRichTextBox.pdb
+C:\Users\Marko\source\repos\SavicKarloRichTextBox\SavicKarloRichTextBox\obj\Debug\SavicKarloRichTextBox.csprojAssemblyReference.cache
+C:\Users\Marko\source\repos\SavicKarloRichTextBox\SavicKarloRichTextBox\obj\Debug\SavicKarloRichTextBox.Form1.resources
+C:\Users\Marko\source\repos\SavicKarloRichTextBox\SavicKarloRichTextBox\obj\Debug\SavicKarloRichTextBox.Properties.Resources.resources
+C:\Users\Marko\source\repos\SavicKarloRichTextBox\SavicKarloRichTextBox\obj\Debug\SavicKarloRichTextBox.csproj.GenerateResource.cache
+C:\Users\Marko\source\repos\SavicKarloRichTextBox\SavicKarloRichTextBox\obj\Debug\SavicKarloRichTextBox.csproj.CoreCompileInputs.cache
+C:\Users\Marko\source\repos\SavicKarloRichTextBox\SavicKarloRichTextBox\obj\Debug\SavicKarloRichTextBox.exe
+C:\Users\Marko\source\repos\SavicKarloRichTextBox\SavicKarloRichTextBox\obj\Debug\SavicKarloRichTextBox.pdb
+C:\Users\Marko\source\repos\SavicKarloRichTextBox\SavicKarloRichTextBox\obj\Debug\SavicKarloRichTextBox.Form2.resources

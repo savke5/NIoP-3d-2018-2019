@@ -1,0 +1,11 @@
+C:\Users\Marko\source\repos\SavicKarloTrackBar\SavicKarloTrackBar\bin\Debug\SavicKarloTrackBar.exe.config
+C:\Users\Marko\source\repos\SavicKarloTrackBar\SavicKarloTrackBar\bin\Debug\SavicKarloTrackBar.exe
+C:\Users\Marko\source\repos\SavicKarloTrackBar\SavicKarloTrackBar\bin\Debug\SavicKarloTrackBar.pdb
+C:\Users\Marko\source\repos\SavicKarloTrackBar\SavicKarloTrackBar\obj\Debug\SavicKarloTrackBar.csprojAssemblyReference.cache
+C:\Users\Marko\source\repos\SavicKarloTrackBar\SavicKarloTrackBar\obj\Debug\SavicKarloTrackBar.Form1.resources
+C:\Users\Marko\source\repos\SavicKarloTrackBar\SavicKarloTrackBar\obj\Debug\SavicKarloTrackBar.Properties.Resources.resources
+C:\Users\Marko\source\repos\SavicKarloTrackBar\SavicKarloTrackBar\obj\Debug\SavicKarloTrackBar.csproj.GenerateResource.cache
+C:\Users\Marko\source\repos\SavicKarloTrackBar\SavicKarloTrackBar\obj\Debug\SavicKarloTrackBar.csproj.CoreCompileInputs.cache
+C:\Users\Marko\source\repos\SavicKarloTrackBar\SavicKarloTrackBar\obj\Debug\SavicKarloTrackBar.exe
+C:\Users\Marko\source\repos\SavicKarloTrackBar\SavicKarloTrackBar\obj\Debug\SavicKarloTrackBar.pdb
+C:\Users\Marko\source\repos\SavicKarloTrackBar\SavicKarloTrackBar\obj\Debug\SavicKarloTrackBar.Form2.resources

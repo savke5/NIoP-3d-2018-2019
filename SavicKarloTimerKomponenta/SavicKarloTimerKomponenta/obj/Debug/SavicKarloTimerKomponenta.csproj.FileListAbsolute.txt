@@ -1,0 +1,10 @@
+C:\Users\Marko\source\repos\SavicKarloTimerKomponenta\SavicKarloTimerKomponenta\bin\Debug\SavicKarloTimerKomponenta.exe.config
+C:\Users\Marko\source\repos\SavicKarloTimerKomponenta\SavicKarloTimerKomponenta\bin\Debug\SavicKarloTimerKomponenta.exe
+C:\Users\Marko\source\repos\SavicKarloTimerKomponenta\SavicKarloTimerKomponenta\bin\Debug\SavicKarloTimerKomponenta.pdb
+C:\Users\Marko\source\repos\SavicKarloTimerKomponenta\SavicKarloTimerKomponenta\obj\Debug\SavicKarloTimerKomponenta.Form1.resources
+C:\Users\Marko\source\repos\SavicKarloTimerKomponenta\SavicKarloTimerKomponenta\obj\Debug\SavicKarloTimerKomponenta.Properties.Resources.resources
+C:\Users\Marko\source\repos\SavicKarloTimerKomponenta\SavicKarloTimerKomponenta\obj\Debug\SavicKarloTimerKomponenta.csproj.GenerateResource.cache
+C:\Users\Marko\source\repos\SavicKarloTimerKomponenta\SavicKarloTimerKomponenta\obj\Debug\SavicKarloTimerKomponenta.csproj.CoreCompileInputs.cache
+C:\Users\Marko\source\repos\SavicKarloTimerKomponenta\SavicKarloTimerKomponenta\obj\Debug\SavicKarloTimerKomponenta.exe
+C:\Users\Marko\source\repos\SavicKarloTimerKomponenta\SavicKarloTimerKomponenta\obj\Debug\SavicKarloTimerKomponenta.pdb
+C:\Users\Marko\source\repos\SavicKarloTimerKomponenta\SavicKarloTimerKomponenta\obj\Debug\SavicKarloTimerKomponenta.Form2.resources
