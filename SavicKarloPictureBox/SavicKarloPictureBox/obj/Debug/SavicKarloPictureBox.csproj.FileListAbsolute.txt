@@ -1,0 +1,11 @@
+C:\Users\Marko\source\repos\SavicKarloPictureBox\SavicKarloPictureBox\bin\Debug\SavicKarloPictureBox.exe.config
+C:\Users\Marko\source\repos\SavicKarloPictureBox\SavicKarloPictureBox\bin\Debug\SavicKarloPictureBox.exe
+C:\Users\Marko\source\repos\SavicKarloPictureBox\SavicKarloPictureBox\bin\Debug\SavicKarloPictureBox.pdb
+C:\Users\Marko\source\repos\SavicKarloPictureBox\SavicKarloPictureBox\obj\Debug\SavicKarloPictureBox.csprojAssemblyReference.cache
+C:\Users\Marko\source\repos\SavicKarloPictureBox\SavicKarloPictureBox\obj\Debug\SavicKarloPictureBox.Form1.resources
+C:\Users\Marko\source\repos\SavicKarloPictureBox\SavicKarloPictureBox\obj\Debug\SavicKarloPictureBox.Properties.Resources.resources
+C:\Users\Marko\source\repos\SavicKarloPictureBox\SavicKarloPictureBox\obj\Debug\SavicKarloPictureBox.csproj.GenerateResource.cache
+C:\Users\Marko\source\repos\SavicKarloPictureBox\SavicKarloPictureBox\obj\Debug\SavicKarloPictureBox.csproj.CoreCompileInputs.cache
+C:\Users\Marko\source\repos\SavicKarloPictureBox\SavicKarloPictureBox\obj\Debug\SavicKarloPictureBox.exe
+C:\Users\Marko\source\repos\SavicKarloPictureBox\SavicKarloPictureBox\obj\Debug\SavicKarloPictureBox.pdb
+C:\Users\Marko\source\repos\SavicKarloPictureBox\SavicKarloPictureBox\obj\Debug\SavicKarloPictureBox.Form2.resources

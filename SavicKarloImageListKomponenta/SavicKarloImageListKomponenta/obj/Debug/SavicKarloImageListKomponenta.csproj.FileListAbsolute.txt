@@ -1,0 +1,11 @@
+C:\Users\Marko\source\repos\SavicKarloImageListKomponenta\SavicKarloImageListKomponenta\bin\Debug\SavicKarloImageListKomponenta.exe.config
+C:\Users\Marko\source\repos\SavicKarloImageListKomponenta\SavicKarloImageListKomponenta\bin\Debug\SavicKarloImageListKomponenta.exe
+C:\Users\Marko\source\repos\SavicKarloImageListKomponenta\SavicKarloImageListKomponenta\bin\Debug\SavicKarloImageListKomponenta.pdb
+C:\Users\Marko\source\repos\SavicKarloImageListKomponenta\SavicKarloImageListKomponenta\obj\Debug\SavicKarloImageListKomponenta.csprojAssemblyReference.cache
+C:\Users\Marko\source\repos\SavicKarloImageListKomponenta\SavicKarloImageListKomponenta\obj\Debug\SavicKarloImageListKomponenta.Form1.resources
+C:\Users\Marko\source\repos\SavicKarloImageListKomponenta\SavicKarloImageListKomponenta\obj\Debug\SavicKarloImageListKomponenta.Properties.Resources.resources
+C:\Users\Marko\source\repos\SavicKarloImageListKomponenta\SavicKarloImageListKomponenta\obj\Debug\SavicKarloImageListKomponenta.csproj.GenerateResource.cache
+C:\Users\Marko\source\repos\SavicKarloImageListKomponenta\SavicKarloImageListKomponenta\obj\Debug\SavicKarloImageListKomponenta.csproj.CoreCompileInputs.cache
+C:\Users\Marko\source\repos\SavicKarloImageListKomponenta\SavicKarloImageListKomponenta\obj\Debug\SavicKarloImageListKomponenta.exe
+C:\Users\Marko\source\repos\SavicKarloImageListKomponenta\SavicKarloImageListKomponenta\obj\Debug\SavicKarloImageListKomponenta.pdb
+C:\Users\Marko\source\repos\SavicKarloImageListKomponenta\SavicKarloImageListKomponenta\obj\Debug\SavicKarloImageListKomponenta.Form2.resources
