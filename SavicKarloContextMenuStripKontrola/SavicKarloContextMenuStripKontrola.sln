@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SavicKarloContextMenuStripKontrola", "SavicKarloContextMenuStripKontrola\SavicKarloContextMenuStripKontrola.csproj", "{3D9C5F95-A160-4957-9753-4AAC4B65F7FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D9C5F95-A160-4957-9753-4AAC4B65F7FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D9C5F95-A160-4957-9753-4AAC4B65F7FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D9C5F95-A160-4957-9753-4AAC4B65F7FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D9C5F95-A160-4957-9753-4AAC4B65F7FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D13B6251-B634-4EBA-8E9C-566AE45AFD5A}
+	EndGlobalSection
+EndGlobal
