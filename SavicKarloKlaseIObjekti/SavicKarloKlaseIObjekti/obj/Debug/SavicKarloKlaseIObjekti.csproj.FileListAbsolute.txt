@@ -1,0 +1,7 @@
+C:\Users\Ucenik\source\repos\SavicKarloKlaseIObjekti\SavicKarloKlaseIObjekti\bin\Debug\SavicKarloKlaseIObjekti.exe.config
+C:\Users\Ucenik\source\repos\SavicKarloKlaseIObjekti\SavicKarloKlaseIObjekti\bin\Debug\SavicKarloKlaseIObjekti.exe
+C:\Users\Ucenik\source\repos\SavicKarloKlaseIObjekti\SavicKarloKlaseIObjekti\bin\Debug\SavicKarloKlaseIObjekti.pdb
+C:\Users\Ucenik\source\repos\SavicKarloKlaseIObjekti\SavicKarloKlaseIObjekti\obj\Debug\SavicKarloKlaseIObjekti.csprojResolveAssemblyReference.cache
+C:\Users\Ucenik\source\repos\SavicKarloKlaseIObjekti\SavicKarloKlaseIObjekti\obj\Debug\SavicKarloKlaseIObjekti.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\source\repos\SavicKarloKlaseIObjekti\SavicKarloKlaseIObjekti\obj\Debug\SavicKarloKlaseIObjekti.exe
+C:\Users\Ucenik\source\repos\SavicKarloKlaseIObjekti\SavicKarloKlaseIObjekti\obj\Debug\SavicKarloKlaseIObjekti.pdb
